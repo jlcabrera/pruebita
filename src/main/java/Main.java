@@ -8,9 +8,9 @@ public class Main {
         int num1 = 5;
         int num2 = 8;
 
-        int suma = num1 + num2;
 
-        System.out.println(suma);
+
+        System.out.println("El resultado de la sumas es: " + (num1 + num2));
 
     }
 
